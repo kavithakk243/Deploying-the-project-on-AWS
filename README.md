@@ -1,6 +1,6 @@
 # Deploying-the-project-on-AWS
 Deploying a Node Js Application on AWS EC2
-Node.js Application Deployment on AWS EC2 is a step-by-step technical blueprint and boilerplate repository that demonstrates how to successfully deploy and configure a full-stack Node.js web application in a production cloud environment using Amazon Web Services (AWS).
+Node.js Application Deployment on AWS EC2 is a step-by-step technical blueprint and repository that demonstrates how to successfully deploy and configure a full-stack Node.js web application in a production cloud environment using Amazon Web Services (AWS).
 Key Implementations & Cloud Architecture
 • Cloud Infrastructure (IaaS): Provisioned and managed a virtual server using an AWS EC2 instance running an Ubuntu Linux OS (t2.micro tier).
 • Identity & Access Management (IAM): Implemented AWS security best practices by setting up dedicated IAM users with scoped admin privileges.
